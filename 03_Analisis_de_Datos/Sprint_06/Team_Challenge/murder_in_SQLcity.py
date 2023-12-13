@@ -1,13 +1,58 @@
+import sqlite3
+import pandas as pd
+
+# Conectamos con la base de datos chinook.db
+
+connection = sqlite3.connect("Sprint_06/Team_Challenge/Data/sql-murder-mystery.db")
+
+# Obtenemos un cursor que utilizaremos para hacer las queries
+
+cursor = connection.cursor()
+
+
+# Con esta función leemos los datos y lo pasamos a un DataFrame de Pandas
+def sql_query(query):
+
+    # Ejecuta la query
+    cursor.execute(query)
+                                    
+
+    # Almacena los datos de la query 
+    ans = cursor.fetchall()
+
+    # Obtenemos los nombres de las columnas de la tabla
+    names = [description[0] for description in cursor.description]
+
+    return pd.DataFrame(ans,columns=names)
+
+
+
+# Ver todas las tablas
+res = cursor.execute("SELECT name FROM sqlite_master WHERE type = 'table'")
+tablas = []
+for name in res:
+    print(name[0])
+    tablas.append(name[0])
+
+
+
+
+
+
 # A crime has taken place and the detective needs your help. 
 # The detective gave you the crime scene report, but you somehow lost it. 
 # You vaguely remember that the crime was a ​murder​ that occurred sometime on ​Jan.15, 2018​ and that it took place in ​SQL City​. 
 #  Start by retrieving the corresponding crime scene report from the police department’s database.
 
 # query para obtener todas las tablas
-'''
+
+
+query = '''
 SELECT name 
-  FROM sqlite_master
- where type = 'table'''
+FROM sqlite_master
+ where type = "table"
+ '''
+sql_query(query)
 
 # ataco a la tabla de 'crime_scene_report' filtrando por:
 # ​murder​ on ​Jan.15, 2018​ in ​SQL City 
@@ -18,6 +63,16 @@ WHERE date = ('20180115')
 AND type = "murder"
 AND city = "SQL City"
 '''
+print("1")
+query = '''
+SELECT *
+FROM crime_scene_report
+WHERE date = ('20180115')
+AND type = "murder"
+AND city = "SQL City"
+'''
+sql_query(query)
+print("2")
 # Security footage shows that there were 2 witnesses. 
 # The first witness lives at the last house on "Northwestern Dr". 
 # The second witness, named Annabel, lives somewhere on "Franklin Ave"

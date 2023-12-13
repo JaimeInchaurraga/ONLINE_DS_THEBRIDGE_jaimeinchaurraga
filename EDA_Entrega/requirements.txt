@@ -11,5 +11,3 @@ scipy==1.11.4
 squarify==0.4.3
 folium==0.15.1
 plotly==5.18.0
-
-
