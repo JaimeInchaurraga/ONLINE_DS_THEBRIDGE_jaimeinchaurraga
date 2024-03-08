@@ -1,0 +1,121 @@
+Company|TypeName|Inches|Memory|OpSys|Price|Screen_Resolution_height|touchscreen|full_hd|IPS|4k_ultra|quad|retina|Cpu_GHz|Cpu_Intel|Processor_product_line|Cpu_generation|Cpu_intel_letter|Ram_GB|Gpu_INA|Gpu_Type|Gpu_Number|GPU_brand|Weight_kg
+Dell|Notebook|15.6|256GB SSD|Windows 10|42624.0|1080.0|0|1|0|0|0|0|1.6|1|Core i5|8|U|8|AMD|radeon|530|Amd|2.2
+Dell|2 in 1 Convertible|13.3|512GB SSD|Windows 10|68145.12|1080.0|1|1|0|0|0|0|1.8|1|Core i7|8|U|16|Intel|uhd graphics|620|Intel|1.62
+Dell|2 in 1 Convertible|31.6|128GB SSD|Windows 10|32127.84|768.0|1|0|0|0|0|0|1.0|1|Core M|7||4|Intel|hd graphics|615|Intel|1.39
+Acer|Notebook|14|32GB Flash Storage|Chrome OS|18594.72|768.0|0|0|0|0|0|0|1.6|1|Celeron Dual Core|3|N|4|Intel|hd graphics|400|Intel|1.68
+HP|Notebook|14|256GB SSD|Windows 10|64202.4|1080.0|0|1|0|0|0|0|2.5|1|Core i5|7|U|4|Intel|hd graphics|620|Intel|1.95
+HP|Ultrabook|13.3|512GB SSD|Windows 10|109170.72|2160.0|0|0|1|1|0|0|2.7|1|Core i7|7|U|16|Intel|hd graphics|620|Intel|1.3
+Asus|Notebook|14|32GB Flash Storage|Windows 10|15877.44|1080.0|0|1|0|0|0|0|1.1|1|Celeron Dual Core|3|N|4|Intel|hd graphics|500|Intel|1.5
+Lenovo|Notebook|15.6|1TB HDD|Windows 10|47898.72|1080.0|0|1|1|0|0|0|2.6|1|Core i7|6|HQ|8|Nvidia|geforce gtx|960M|Nvidia|2.6
+HP|Notebook|13.3|256GB SSD|Windows 10|63349.92|1080.0|0|1|1|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|1.34
+Lenovo|Gaming|15.6|128GB SSD +  1TB HDD|No OS|43103.52|1080.0|0|1|1|0|0|0|2.5|1|Core i5|7|HQ|8|Nvidia|geforce gtx|1050|Nvidia|2.4
+MSI|Gaming|15.6|256GB SSD|Windows 10|54757.9872|1080.0|0|1|0|0|0|0|2.5|1|Core i5|7|HQ|8|Nvidia|geforce gtx|1050|Nvidia|2.2
+HP|Notebook|15.6|128GB SSD +  1TB HDD|Windows 10|26586.72|1080.0|0|1|0|0|0|0|2.0|1|Core i3|6|U|4|AMD|radeon|520|Amd|2.1
+Toshiba|Notebook|15.6|500GB HDD|Windows 10|26053.92|768.0|0|0|0|0|0|0|2.4|1|Core i3|7|U|4|Intel|hd graphics|620|Intel|5.4
+Asus|2 in 1 Convertible|15.6|2TB HDD|Windows 10|44701.92|1080.0|1|1|0|0|0|0|2.7|1|Core i7|7|U|12|Nvidia|geforce|940MX|Nvidia|2.3
+HP|Notebook|14|256GB SSD|Windows 10|54931.68|1080.0|0|1|0|0|0|0|1.8|1|Core i7|8|U|8|Nvidia|geforce|930MX|Nvidia|1.63
+Dell|Gaming|15.6|1TB HDD|Windows 10|58554.72|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|8|Nvidia|geforce gtx|1050|Nvidia|2.62
+Lenovo|Notebook|15.6|256GB SSD|No OS|26586.72|768.0|0|0|0|0|0|0|2.0|1|Core i3|6|U|8|Nvidia|geforce|920MX|Nvidia|2.2
+Acer|Notebook|15.6|256GB SSD|Windows 10|44328.96|1080.0|0|1|0|0|0|0|2.7|1|Core i7|7|U|8|Nvidia|geforce|940MX|Nvidia|2.2
+Microsoft|Ultrabook|13.5|128GB SSD|Windows 10 S|58021.92|1504.0|1|0|0|0|0|0|2.5|1|Core i5|7|U|4|Intel|hd graphics|620|Intel|1.252
+MSI|Gaming|15.6|256GB SSD +  2TB HDD|Windows 10|119427.12|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|16|Nvidia|geforce gtx|1070|Nvidia|1.8
+HP|Ultrabook|14|256GB SSD|Windows 10|100550.5488|1080.0|0|1|0|0|0|0|2.5|1|Core i7|6|U|8|Intel|hd graphics|520|Intel|1.54
+Lenovo|Notebook|15.6|500GB HDD|Windows 10|22324.32|768.0|0|0|0|0|0|0|1.1|1|Celeron Dual Core|3|N|4|Intel|hd graphics|500|Intel|2.2
+Toshiba|Notebook|15.6|500GB HDD|Windows 10|23816.16|768.0|0|0|0|0|0|0|2.2|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|2.1
+Lenovo|Ultrabook|14|256GB SSD|Windows 10|101391.84|1080.0|0|1|1|0|0|0|2.8|1|Core i7|7|HQ|8|Nvidia|geforce gt|940MX|Nvidia|1.96
+Acer|Notebook|17.3|1TB HDD|Windows 10|34898.4|1080.0|0|1|1|0|0|0|2.7|1|Core i3|7|U|4|Nvidia|geforce|MX130|Nvidia|3.0
+Apple|Ultrabook|12|256GB SSD|other|67260.672|1440.0|0|0|1|0|0|1|1.2|1|Core M|7|None|8|Intel|hd graphics|615|Intel|0.92
+Asus|Notebook|14.1|32GB Flash Storage|Windows 10|18541.44|768.0|0|0|0|0|0|0|1.1|1|Celeron Dual Core|3|N|4|Intel|hd graphics|500|Intel|1.65
+Asus|Gaming|15.6|1TB HDD|No OS|62284.32|1080.0|0|1|1|0|0|0|2.8|1|Core i7|7|HQ|8|Nvidia|geforce gtx|Ti|Nvidia|2.5
+Acer|Notebook|15.6|500GB HDD|Linux|23539.104|768.0|0|0|0|0|0|0|2.5|1|Core i5|7|U|4|Intel|hd graphics|620|Intel|2.4
+HP|Notebook|15.6|256GB SSD|Windows 10|31914.1872|1080.0|0|1|0|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|1.96
+Dell|Gaming|17.3|1TB SSD +  1TB HDD|Windows 10|191211.264|1080.0|0|1|1|0|0|0|2.8|1|Core i7|7|HQ|32|Nvidia|geforce gtx|1070M|Nvidia|4.42
+Dell|Gaming|17.3|128GB SSD +  1TB HDD|Windows 10|133467.4656|1080.0|0|1|1|0|0|0|2.8|1|Core i7|7|HQ|16|Nvidia|geforce gtx|1060|Nvidia|4.36
+HP|Notebook|15.6|1.0TB Hybrid|Windows 10|29303.4672|1080.0|0|1|0|0|0|0|2.9|0|A9-Series|9|None|6|AMD|radeon r7|M440|Amd|2.04
+Asus|2 in 1 Convertible|13.3|512GB SSD +  512GB SSD|Windows 10|79866.72|1080.0|1|1|0|0|0|0|1.8|1|Core i7|8|U|8|Intel|uhd graphics|620|Intel|4.1
+HP|Notebook|15.6|256GB SSD|Windows 10|46833.12|1080.0|0|1|0|0|0|0|1.6|1|Core i5|8|U|8|Nvidia|geforce|930MX|Nvidia|2.1
+Dell|2 in 1 Convertible|13.3|256GB SSD|Windows 10|43636.32|1080.0|1|1|0|0|0|0|1.6|1|Core i5|8|U|8|Intel|uhd graphics|620|Intel|1.62
+Asus|Gaming|17.3|128GB SSD +  1TB HDD|Windows 10|62231.04|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|8|Nvidia|geforce gtx|1050|Nvidia|3.0
+Dell|Ultrabook|13.3|128GB SSD|Windows 10|47898.72|1080.0|1|1|1|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|1.29
+Lenovo|Notebook|14|508GB Hybrid|Windows 7|53386.56|768.0|0|0|0|0|0|0|2.3|1|Core i5|6|U|4|Intel|hd graphics|520|Intel|1.7
+Asus|Notebook|15.6|256GB SSD|Windows 10|59567.04|1080.0|0|1|0|0|0|0|1.8|1|Core i7|8|U|8|Nvidia|geforce|940MX|Nvidia|1.7
+Dell|Notebook|15.6|1TB HDD|Windows 10|36496.2672|768.0|0|0|0|0|0|0|2.5|1|Core i5|7|U|4|AMD|radeon r5|M420|Amd|2.18
+Asus|2 in 1 Convertible|13.3|1TB HDD|Windows 10|34046.4528|1080.0|1|1|0|0|0|0|2.5|1|Core i5|7|U|6|Intel|hd graphics|620|Intel|1.5
+Dell|Notebook|15.6|1TB HDD|Windows 10|24455.52|768.0|0|0|0|0|0|0|2.4|1|Core i3|7|U|6|Intel|hd graphics|620|Intel|2.3
+HP|Notebook|17.3|512GB SSD|Windows 10|67718.88|1080.0|0|1|0|0|0|0|1.8|1|Core i7|8|U|16|Nvidia|geforce|930MX|Nvidia|2.5
+Acer|2 in 1 Convertible|11.6|32GB Flash Storage|Chrome OS|20725.92|768.0|1|0|1|0|0|0|1.6|1|Celeron Dual Core|3|N|4|Intel|hd graphics|400|Intel|1.25
+Lenovo|2 in 1 Convertible|13.3|256GB SSD|Windows 10|103896.0|1080.0|1|1|1|0|0|0|2.7|1|Core i7|7|U|8|Intel|hd graphics|620|Intel|1.37
+Acer|Notebook|15.6|1TB HDD|Windows 10|25521.12|1080.0|1|1|1|0|0|0|2.4|1|Core i3|7|U|6|Intel|hd graphics|620|Intel|2.1
+Asus|Gaming|17.3|1TB HDD|Windows 10|63243.36|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|8|Nvidia|geforce gtx|1050|Nvidia|3.0
+Dell|Ultrabook|13.3|256GB SSD|Windows 10|79866.72|1080.0|0|1|0|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|1.29
+HP|Ultrabook|12.5|256GB SSD|Windows 7|122381.496|1080.0|0|1|0|0|0|0|2.5|1|Core i7|6|U|8|Intel|hd graphics|520|Intel|1.26
+Lenovo|Notebook|14|16GB Flash Storage|Chrome OS|17316.0|768.0|0|0|0|0|0|0|1.6|1|Celeron Quad Core|3|N|4|Intel|hd graphics|400|Intel|1.5
+Dell|Gaming|15.6|256GB SSD +  1TB HDD|Windows 10|147832.2864|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|16|Nvidia|geforce gtx|1070|Nvidia|3.21
+Mediacom|Notebook|13.3|32GB Flash Storage|Windows 10|13586.4|1080.0|0|1|1|0|0|0|1.44|1|Atom|8|Z|4|Intel|hd graphics|Graphics|Intel|1.35
+Lenovo|Notebook|15.6|128GB SSD|Windows 10|30103.2|768.0|0|0|0|0|0|0|2.0|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|2.3
+HP|Notebook|15.6|128GB SSD|Windows 10|30310.992|1080.0|0|1|1|0|0|0|2.5|0|A10-Series|9|None|6|AMD|radeon|530|Amd|1.91
+Dell|Gaming|15.6|1TB HDD|Linux|49497.12|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|8|Nvidia|geforce gtx|1050Ti|Nvidia|2.62
+Lenovo|2 in 1 Convertible|15.6|256GB SSD|Windows 10|46193.76|1080.0|1|1|1|0|0|0|2.3|1|Core i5|6|U|4|Intel|hd graphics|520|Intel|2.1
+Dell|Ultrabook|13.3|256GB SSD|Windows 10|77250.672|1080.0|0|1|0|0|0|0|1.6|1|Core i5|8|U|8|Intel|uhd graphics|620|Intel|1.2
+Dell|Notebook|15.6|128GB SSD +  1TB HDD|Windows 10|52161.12|1080.0|0|1|0|0|0|0|1.8|1|Core i7|8|U|8|AMD|radeon|530|Amd|2.36
+Lenovo|Notebook|15.6|500GB HDD|Windows 10|56210.4|768.0|0|0|0|0|0|0|2.5|1|Core i5|7|U|4|Intel|hd graphics|620|Intel|2.38
+HP|Notebook|17.3|256GB SSD|Windows 10|63936.0|1080.0|0|1|0|0|0|0|2.7|1|Core i7|7|U|8|Nvidia|geforce|930MX|Nvidia|2.63
+Dell|Netbook|11.6|16GB Flash Storage|Chrome OS|15717.6|768.0|0|0|0|0|0|0|1.6|1|Celeron Dual Core|3|N|4|Intel|hd graphics|400|Intel|1.26
+Mediacom|Notebook|13.3|32GB SSD|Windows 10|19660.32|1080.0|0|1|1|0|0|0|1.1|1|Celeron Quad Core|3|N|4|Intel|hd graphics|500|Intel|1.2
+Dell|Gaming|15.6|1.0TB Hybrid|Windows 10|47898.72|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|8|Nvidia|geforce gtx|1050|Nvidia|2.62
+Lenovo|Notebook|15.6|128GB SSD|No OS|24935.04|1080.0|0|1|0|0|0|0|2.5|1|Core i5|7|U|4|Intel|hd graphics|620|Intel|2.2
+Apple|Ultrabook|11.6|256GB Flash Storage|Mac OS X|51095.52|768.0|0|0|0|0|0|0|1.6|1|Core i5|7|None|4|Intel|hd graphics|6000|Intel|1.08
+Lenovo|Notebook|15.6|1TB HDD|No OS|24988.32|1080.0|0|1|0|0|0|0|2.0|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|2.2
+Lenovo|Notebook|15.6|2TB HDD|Windows 10|47898.72|1080.0|0|1|0|0|0|0|3.6|0|A12-Series|9|None|12|AMD|radeon|530|Amd|2.2
+Toshiba|Notebook|13.3|256GB SSD|Windows 10|64628.64|1080.0|0|1|0|0|0|0|2.3|1|Core i5|6|U|8|Intel|hd graphics|520|Intel|1.2
+Lenovo|Notebook|15.6|1TB HDD|No OS|19607.04|768.0|0|0|0|0|0|0|2.0|1|Core i3|6|U|4|AMD|radeon r5|M430|Amd|1.9
+Asus|Notebook|15.6|1TB HDD|No OS|30849.12|768.0|0|0|0|0|0|0|2.3|1|Core i5|6|HQ|4|Nvidia|geforce gtx|950M|Nvidia|2.45
+Asus|Notebook|14|32GB Flash Storage|Windows 10|14811.84|768.0|0|0|0|0|0|0|1.1|1|Celeron Dual Core|3|N|4|Intel|hd graphics|500|Intel|1.5
+Asus|2 in 1 Convertible|13.3|256GB SSD|Windows 10|72354.24|1080.0|1|1|0|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|1.1
+Toshiba|Notebook|15.6|256GB SSD|Windows 10|59620.32|768.0|0|0|0|0|0|0|2.3|1|Core i5|6|U|8|Intel|hd graphics|520|Intel|2.2
+Dell|Notebook|14|500GB HDD|Windows 10|31168.8|768.0|0|0|0|0|0|0|2.0|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|1.76
+Asus|2 in 1 Convertible|15.6|1TB HDD|Windows 10|39373.92|768.0|1|0|0|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|520|Intel|2.2
+Samsung|2 in 1 Convertible|15|256GB SSD|Windows 10|95850.72|1080.0|1|1|0|0|0|0|2.7|1|Core i7|7|U|16|AMD|radeon|540|Amd|1.71
+HP|Notebook|15.6|256GB SSD|Windows 10|54291.7872|1080.0|0|1|0|0|0|0|2.7|1|Core i7|7|U|8|Nvidia|geforce|930MX|Nvidia|2.04
+Razer|Ultrabook|12.5|256GB SSD|Windows 10|54825.12|2160.0|1|0|0|1|0|0|2.5|1|Core i7|6|U|8|Intel|hd graphics|520|Intel|1.25
+Asus|Gaming|17.3|256GB SSD +  1TB HDD|Windows 10|80133.12|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|16|Nvidia|geforce|Ti|Nvidia|3.0
+Acer|Notebook|15.6|1TB HDD|Windows 10|29250.72|768.0|0|0|0|0|0|0|2.5|1|Core i5|7|U|6|Intel|hd graphics|620|Intel|8.23
+Lenovo|Notebook|14|64GB Flash Storage|Windows 10|12201.12|768.0|0|0|0|0|0|0|1.6|1|Celeron Dual Core|3|N|2|Intel|hd graphics|Graphics|Intel|1.5
+Lenovo|Notebook|15.6|1TB HDD|Windows 10|22105.872|1080.0|0|1|0|0|0|0|2.0|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|1.85
+Lenovo|Notebook|15.6|1TB HDD|No OS|17155.6272|768.0|0|0|0|0|0|0|1.1|1|Celeron Dual Core|3|N|4|Intel|hd graphics|500|Intel|2.2
+HP|Ultrabook|13.3|512GB SSD|Windows 10|104908.32|1080.0|0|1|0|0|0|0|2.5|1|Core i7|6|U|8|Intel|hd graphics|520|Intel|1.16
+HP|Notebook|17.3|1TB HDD|Windows 10|48697.92|1080.0|0|1|1|0|0|0|1.6|1|Core i5|8|U|8|Nvidia|geforce|930MX|Nvidia|2.5
+Lenovo|Ultrabook|14|256GB SSD|Windows 7|79866.72|1080.0|0|1|0|0|0|0|2.6|1|Core i7|6|U|8|Intel|hd graphics|520|Intel|1.7
+Lenovo|Notebook|17.3|500GB HDD|No OS|28185.12|1080.0|0|1|0|0|0|0|2.0|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|2.8
+Lenovo|Notebook|15.6|256GB SSD|Windows 10|74059.2|1080.0|0|1|1|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|1.95
+Dell|Gaming|15.6|256GB SSD +  1TB HDD|Windows 10|152859.7872|2160.0|0|0|1|1|0|0|2.8|1|Core i7|7|HQ|16|Nvidia|geforce gtx|1070|Nvidia|4.42
+HP|Notebook|14|500GB HDD|Windows 10|53280.0|1080.0|0|1|0|0|0|0|2.3|1|Core i5|6|U|4|Intel|hd graphics|520|Intel|1.54
+Lenovo|2 in 1 Convertible|14|512GB SSD|Windows 7|109244.2464|1080.0|1|1|1|0|0|0|2.6|1|Core i7|6|U|8|Nvidia|quadro|M500M|Nvidia|1.8
+Asus|Gaming|17.3|256GB SSD|Windows 10|159786.72|1080.0|0|1|0|0|0|0|2.9|1|Core i7|7|HK|16|Nvidia|geforce gtx|1080|Nvidia|3.6
+Lenovo|Notebook|13.3|16GB Flash Storage|Chrome OS|24503.472|768.0|0|0|0|0|0|0|1.6|1|Celeron Dual Core|3|U|4|Intel|hd graphics|510|Intel|1.45
+Lenovo|Gaming|15.6|128GB SSD +  1TB HDD|Windows 10|55837.44|1080.0|0|1|1|0|0|0|2.8|1|Core i7|7|HQ|8|Nvidia|geforce gtx|1050|Nvidia|2.5
+Lenovo|Gaming|15.6|128GB SSD +  1TB HDD|Windows 10|53226.72|1080.0|0|1|1|0|0|0|2.5|1|Core i5|7|HQ|8|Nvidia|geforce gtx|1050|Nvidia|2.5
+Dell|Notebook|15.6|500GB HDD|Windows 10|25679.8944|768.0|0|0|0|0|0|0|2.3|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|2.06
+Lenovo|Notebook|14|256GB SSD|Windows 10|45664.6896|1080.0|0|1|1|0|0|0|2.5|1|Core i5|7|U|8|Nvidia|geforce|920MX|Nvidia|1.87
+Dell|2 in 1 Convertible|15.6|1TB HDD|Windows 10|42410.3472|1080.0|1|1|1|0|0|0|2.3|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|2.08
+HP|Notebook|15.6|500GB HDD|No OS|25414.0272|768.0|0|0|0|0|0|0|2.3|1|Core i5|6|U|4|Intel|hd graphics|520|Intel|2.1
+Lenovo|Notebook|15.6|256GB SSD|Windows 10|42037.92|1080.0|0|1|0|0|0|0|2.7|1|Core i7|7|U|6|Nvidia|geforce|940MX|Nvidia|2.2
+Dell|Notebook|15.6|256GB SSD|Windows 10|60885.72|1080.0|0|1|0|0|0|0|1.6|1|Core i5|8|U|8|Nvidia|geforce|940MX|Nvidia|2.0
+Lenovo|Netbook|12.5|512GB SSD|Windows 10|87912.0|1080.0|1|1|1|0|0|0|2.5|1|Core i7|6|U|16|Intel|hd graphics|520|Intel|1.3
+other|Notebook|15.6|256GB SSD|Windows 10|42570.72|768.0|0|0|0|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|2.2
+Lenovo|2 in 1 Convertible|13.9|256GB SSD|Windows 10|71874.72|1080.0|1|1|1|0|0|0|2.7|1|Core i7|7|U|8|Intel|hd graphics|620|Intel|1.38
+Apple|Ultrabook|12|512GB Flash Storage|Mac OS X|68145.12|1440.0|0|0|1|0|0|1|1.2|1|Core M|7|None|8|Intel|hd graphics|515|Intel|0.92
+Toshiba|Notebook|15.6|256GB SSD|Windows 10|75924.0|1080.0|0|1|1|0|0|0|2.5|1|Core i7|6|U|16|Nvidia|geforce|930M|Nvidia|2.4
+Lenovo|Notebook|15.6|256GB SSD|No OS|23656.32|1080.0|0|1|0|0|0|0|2.0|1|Core i3|6|U|4|Intel|hd graphics|520|Intel|2.2
+Asus|Notebook|15.6|500GB HDD|Windows 10|19660.32|768.0|0|0|0|0|0|0|1.6|1|Celeron Dual Core|3|N|4|Intel|hd graphics|Graphics|Intel|2.2
+Lenovo|Notebook|17.3|256GB SSD|No OS|37189.44|900.0|0|0|0|0|0|0|1.6|1|Core i5|8|U|8|Nvidia|geforce|MX150|Nvidia|2.8
+Lenovo|Notebook|15.6|1TB HDD|Windows 10|47898.72|1080.0|0|1|1|0|0|0|2.6|1|Core i7|6|HQ|8|Nvidia|geforce gtx|960M|Nvidia|2.6
+Toshiba|Notebook|15.6|256GB SSD|Windows 10|50243.04|1080.0|0|1|1|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|2.0
+MSI|Gaming|17.3|256GB SSD +  1TB HDD|Windows 10|103842.1872|1080.0|0|1|1|0|0|0|2.6|1|Core i7|6|HQ|16|Nvidia|geforce gtx|1060|Nvidia|2.43
+Lenovo|Gaming|15.6|128GB SSD +  1TB HDD|No OS|52693.92|1080.0|0|1|1|0|0|0|2.5|1|Core i5|7|HQ|8|Nvidia|geforce gtx|1060|Nvidia|2.4
+HP|Notebook|14|32GB SSD|Windows 10|12201.12|768.0|0|0|0|0|0|0|1.6|1|Celeron Dual Core|3|N|4|Intel|hd graphics|400|Intel|1.44
+HP|Notebook|15.6|2TB HDD|Windows 10|33513.12|768.0|0|0|0|0|0|0|2.5|0|A12-Series|9|None|8|AMD|radeon r7 graphics|Graphics|Amd|2.04
+HP|Gaming|17.3|1TB HDD|Windows 10|95850.72|1080.0|0|1|0|0|0|0|2.8|1|Core i7|7|HQ|12|Nvidia|geforce gtx|1060|Nvidia|2.62
+Dell|Ultrabook|13.3|256GB SSD|Windows 10|49650.5664|1080.0|0|1|1|0|0|0|1.8|1|Core i7|8|U|8|AMD|radeon|530|Amd|1.4
+Lenovo|Netbook|11.6|128GB SSD|Windows 10|29463.84|768.0|0|0|1|0|0|0|1.1|1|Celeron Quad Core|3|N|4|Intel|hd graphics|500|Intel|1.59
+Lenovo|Notebook|17.3|1TB HDD|No OS|28717.92|900.0|0|0|0|0|0|0|2.5|1|Core i5|7|U|8|Intel|hd graphics|620|Intel|2.8
