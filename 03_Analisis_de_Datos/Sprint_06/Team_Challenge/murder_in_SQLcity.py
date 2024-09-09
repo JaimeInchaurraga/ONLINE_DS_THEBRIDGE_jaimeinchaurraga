@@ -46,7 +46,6 @@ for name in res:
 
 # query para obtener todas las tablas
 
-
 query = '''
 SELECT name 
 FROM sqlite_master
